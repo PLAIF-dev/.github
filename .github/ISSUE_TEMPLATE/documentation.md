@@ -5,13 +5,12 @@ title: "docs: "
 labels: documentation
 ---
 
-**설명**
+**Descriptions**
 
 Clearly describe what documentation you are looking to add or improve.
-
 어떠한 문서를 추가하거나 개선하고 싶은지 분명히 설명해주세요.
 
-**요구사항**
+**Requirements**
 
 - [ ] Requirements go here
 - [ ] 필요한 경우 추가해주세요
