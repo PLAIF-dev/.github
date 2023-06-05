@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: micnncim/action-label-syncer@v1.3.0
         with:
+          manifest: ../labels.yml
           repository: |
             PLAIF-dev/picus_m
             PLAIF-dev/.github
