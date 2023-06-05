@@ -8,9 +8,9 @@ jobs:
       - uses: micnncim/action-label-syncer@v1.3.0
         with:
           repository: |
-            Gosrock/Ticket-Front-22th
+            PLAIF-dev/picus_m
             Gosrock/Ticket-Backend-22th
             Gosrock/Ticket-Deploy-22th
             Gosrock/Ticket-Admin-22th
             Gosrock/.github
-          token: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
