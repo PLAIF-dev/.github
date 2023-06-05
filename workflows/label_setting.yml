@@ -1,5 +1,10 @@
 name: Sync labels
-on: workflow_dispatch
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ../labels.yml
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,8 +14,6 @@ jobs:
         with:
           repository: |
             PLAIF-dev/picus_m
-            Gosrock/Ticket-Backend-22th
-            Gosrock/Ticket-Deploy-22th
-            Gosrock/Ticket-Admin-22th
-            Gosrock/.github
+            PLAIF-dev/.github
+            PLAIF-dev/core_template
           token: ${{ secrets.GITHUB_TOKEN }}
