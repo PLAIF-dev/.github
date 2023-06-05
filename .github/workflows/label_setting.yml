@@ -1,17 +1,16 @@
 name: Sync labels
-
-on:
-  workflow_dispatch:
-    branches:
-      - main
-    paths:
-      - .github/labels.yml
+on: workflow_dispatch
 jobs:
   build:
-    name: Sync labels
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3.5.2
       - uses: micnncim/action-label-syncer@v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          manifest: .github/labels.yml
+          repository: |
+              PLAIF-dev/.github
+              PLAIF-dev/ros_dart
+          token: ${{ secrets.PERSONAL_TOKEN }}
