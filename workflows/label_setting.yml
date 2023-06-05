@@ -2,7 +2,7 @@ name: Sync labels
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - ../labels.yml
 jobs:
@@ -10,11 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: micnncim/action-label-syncer@v1.3.0
+      - uses: micnncim/action-label-syncer@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           manifest: ../labels.yml
-          repository: |
-            PLAIF-dev/picus_m
-            PLAIF-dev/.github
-            PLAIF-dev/core_template
-          token: ${{ secrets.GITHUB_TOKEN }}
