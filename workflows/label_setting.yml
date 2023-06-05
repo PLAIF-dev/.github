@@ -1,16 +1,17 @@
 name: Sync labels
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main
     paths:
       - .github/labels.yml
 jobs:
   build:
+    name: Sync labels
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: micnncim/action-label-syncer@v1
+      - uses: micnncim/action-label-syncer@v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
