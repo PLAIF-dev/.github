@@ -11,4 +11,4 @@ jobs:
         with:
           manifest: .github/labels.yml
           repository: |
-              PLAIF-dev/ros_dart
+              PLAIF-dev/.github
