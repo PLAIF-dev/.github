@@ -11,6 +11,4 @@ jobs:
         with:
           manifest: .github/labels.yml
           repository: |
-              PLAIF-dev/.github
               PLAIF-dev/ros_dart
-          token: ${{ secrets.PERSONAL_TOKEN }}
