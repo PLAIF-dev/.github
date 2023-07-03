@@ -5,7 +5,7 @@
 <!--
 TODO: 이미지 변경하기
 -->
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![Welcome Image with PLAIF members](/assets/main/opening.png)
 
 **PLAIF**은 단순 반복적인 일은 로봇이 하고, 사람은 좀 더 창의적이고 가치 있는 일을 할 수 있게 합니다.
 플라잎은 1가정 1로봇의 시대를 열어갈 것입니다 🏠.
@@ -13,7 +13,7 @@ TODO: 이미지 변경하기
 
 ### 💓 Teams
 
-- [🖥️ Software](https://github.com/plaif-dev/.github/blob/main/profile/software/software.md)
+- [🖥️ Software](/profile/software/software.md)
 <!--
 TODO: 아래 자료 관련페이지 작성후 링크 연결하기(위 예시 참고)
 - [👀 Vision](https://github.com)
