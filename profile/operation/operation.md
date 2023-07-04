@@ -6,6 +6,6 @@
 
 ## 👥 Members
 
-- [🐮 임지연](/profile/operation/members/jiyeon.md)
 - [🐮 노을](/profile/operation/members/noeul.md)
 - [🐯 신여율](/profile/operation/members/yeoryul.md)
+- [🐮 임지연](/profile/operation/members/jiyeon.md)
