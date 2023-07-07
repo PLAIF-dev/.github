@@ -1,8 +1,8 @@
 # 🖥️ Team Software
 
-소프트웨어 팀에 대한 소개입니다.
+![Software](/assets/software/main1.png)
 
-<!-- TODO: 내용 정리 하고 추가하기 -->
+[AI Vision 팀](/profile/vision/vision.md), [AI Motion 팀](/profile/motion/motion.md) 과 협업하여 애플리케이션으로 만드는 일을 합니다.
 
 ## 👥 Members
 
