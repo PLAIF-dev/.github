@@ -1,4 +1,4 @@
-# 이우
+# 이우재
 
 <!-- ![메인 이미지](/assets/software/js1.jpg) -->
 
@@ -12,4 +12,4 @@ Team Lead / AI Motion Developer
 
 ## Links
 
-<!-- [Github Profile](https://github.com/powerstrong) -->
+[Github Profile](https://github.com/leewoojae)
