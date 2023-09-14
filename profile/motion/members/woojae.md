@@ -1,7 +1,5 @@
 # 이우재
 
-<!-- ![메인 이미지](/assets/software/js1.jpg) -->
-
 ## Position
 
 Team Lead / AI Motion Developer
