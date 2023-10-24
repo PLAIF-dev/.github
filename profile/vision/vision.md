@@ -5,6 +5,7 @@
 <!-- TODO: 내용 정리 하고 추가하기 -->
 ## 👥 Members
 
+- [🐮 추연학](/profile/vision/members/aaa.md)
 - [🐮 한가영](/profile/vision/members/gayoung.md)
 - [🐮 김태영](/profile/vision/members/taeyeong.md)
 - [🐮 박준서](/profile/vision/members/junseo.md)
