@@ -11,3 +11,4 @@
 - [🐮 알리오 헌낭](/profile/vision/members/honnang.md)
 - [🐮 이정호](/profile/vision/members/jeongho.md)
 - [🐮 최재우](/profile/vision/members/jaewoo.md)
+- [🐮 박준영](/profile/vision/members/junyoung.md)
