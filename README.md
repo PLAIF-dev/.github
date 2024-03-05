@@ -1,6 +1,6 @@
 # PLAIF
 
-> If you want to proceed reading about `PLAIF Inc.` in english, please visit [the english version](/readme/english.md).
+> If you want to proceed reading about `PLAIF Inc.` in English, please visit [the English version](/readme/english.md).
 
 이 repository 는 `PLAIF(혹은 플라잎)` 에 대해 소개하는 자료가 보관된 repository 입니다. 이 repository 에는 다음 내용을 모두가 읽을 수 있게 문서화 합니다.
 
@@ -13,11 +13,11 @@
 
 ### 1. 소개 페이지 작성하기
 
-markdown 을 이용하여, 소개페이지를 작성해주세요. 어떤 직무를 하고 있는지, 어떤 툴을 사용하는지, 관심사는 무엇인지 자유롭게 작성해주세요. 막막하시다구요? 다음 [예시](/profile/software/members/jusung.md)를 참고해서 조금만 변경해서 그대로 작성해주셔도 전혀 무방하답니다 😊. 아 참, 어떻게 소개페이지를 작성하는지 설명하는 것을 깜빡했군요. 다음 과정을 따르세요!
+Markdown 을 이용하여, 소개페이지를 작성해주세요. 어떤 직무를 하고 있는지, 어떤 툴을 사용하는지, 관심사는 무엇인지 자유롭게 작성해주세요. 막막하시다구요? 다음 [예시](/profile/software/members/jusung.md)를 참고해서 조금만 변경해서 그대로 작성해주셔도 전혀 무방하답니다 😊. 아 참, 어떻게 소개페이지를 작성하는지 설명하는 것을 깜빡했군요. 다음 과정을 따르세요!
 
 1. 이 repository `clone` 하기(e.g. `git clone https://github.com/plaif-dev/.github.git`)
 2. 소개 페이지를 추가할 `branch` 만들고 해당 branch로 이동하기(e.g. `git switch -c jusung/introduction`)
-3. `/profile` 아래 해당하는 팀의 `members` 아래에 영어 이름으로 `markdown 파일 만들기` (e.g. `profile/software/members/jusung.md`)
+3. `/profile` 아래 해당하는 팀의 `members` 아래에 영어 이름으로 `Markdown 파일 만들기` (e.g. `profile/software/members/jusung.md`)
    1. 해당 팀이 존재하지 않다면, 팀 이름의 directory 를 만들고, 다음과 같은 구조로 directory 를 구성하세요
 
 ```plaintext
@@ -32,7 +32,7 @@ markdown 을 이용하여, 소개페이지를 작성해주세요. 어떤 직무�
 
 ### 2. 소개 페이지 검토 받기
 
-페이지를 모두 작성하셨나요? 거의 다왔습니다. 이제 소개페이지를 팀원들과 `double-check` 해봅시다. 혹시 오타가 있을 수도 있잖아요! 다음 방법을 따라서 검토해봅시다.(저희는 `github flow`를 따르고 있어요 😊.)
+페이지를 모두 작성하셨나요? 거의 다왔습니다. 이제 소개페이지를 팀원들과 `double-check` 해봅시다. 혹시 오타가 있을 수도 있잖아요! 다음 방법을 따라서 검토해봅시다.(저희는 `GitHub flow`를 따르고 있어요 😊.)
 
 1. 소개페이지 커밋 하기(e.g. `git commit -m "📝docs(introduction): add intro for 누구누구"`)
 2. 소개페이지 푸시 하기(e.g. `git push origin jusung/introduction`)
