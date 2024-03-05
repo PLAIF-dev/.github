@@ -6,4 +6,4 @@
 
 ## 👥 Members
 
-- [🐮 정우철](/profile/mech/memebers/woocheol.md)
+- [🐮 정우철](/profile/mech/members/woocheol.md)
