@@ -1,6 +1,6 @@
 # 에디 (Eddie)
 
-TODO: Add image here.
+![메인 이미지](/assets/software/eddie.jpg)
 
 ## Position
 
