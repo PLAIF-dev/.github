@@ -15,3 +15,5 @@
 - [🦾 Motion](/profile/motion/motion.md)
 - [📔 Operation](/profile/operation/operation.md)
 - [⚙️ Mech.](/profile/mech/mech.md)
+- [🤖 ML](/profile/ml/ml.md)
+
