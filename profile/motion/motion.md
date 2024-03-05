@@ -12,4 +12,4 @@
 - [🐷 수메야](/profile/motion/members/soumayya.md)
 - [🐷 이기범](/profile/motion/members/kibeom.md)
 - [🐷 이종호](/profile/motion/members/jongho.md)
-
+- [🐱‍👤 이상협](/profile/motion/members/sanghyeop.md)
