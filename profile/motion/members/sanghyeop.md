@@ -1,6 +1,6 @@
 # 이상협
 
-<!-- ![메인 이미지](/assets/software/) -->
+![메인 이미지](/assets/motion/sh1.jpg)
 
 ## Position
 
