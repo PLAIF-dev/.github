@@ -5,3 +5,4 @@ ML 팀은 [AI Vision 팀](/profile/vision/vision.md), [AI Motion 팀](/profile/m
 ## 👥 Members
 
 - [이지훈](/profile/ml/members/jihun.md)
+- [살림](/profile/ml/members/Saleem.md)

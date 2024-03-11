@@ -14,4 +14,4 @@ I am looking forward to collaborating with all of you and contributing to the su
 And to all Plaifers, I have a humble request: please teach me everything you know ㅋㅋㅋ, so I can become the ultimate coding ninja and impress my cat with my mad programming skills! Let's embark on this learning journey together and create something magical!🧙‍♂️✨
 
 감사합니다~ 잘 부탁드리겠습니다!
-![alt text](../../../assets/ml/Saleem.jpg)
+![Saleem](../../../assets/ml/Saleem.jpg)
