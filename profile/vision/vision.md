@@ -12,3 +12,4 @@
 - [🐮 이정호](/profile/vision/members/jeongho.md)
 - [🐮 최재우](/profile/vision/members/jaewoo.md)
 - [🐮 박준영](/profile/vision/members/junyoung.md)
+- [🐮 송석송](/profile/vision/members/seoksong.md)
