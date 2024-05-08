@@ -9,8 +9,3 @@ Vision AI Engineer
 ## About me?
 
 AI Vision 팀의 김지헌 입니다.
-
-
-## Links
-
-[Github Profile]([https://github.com/wlgjs8])
