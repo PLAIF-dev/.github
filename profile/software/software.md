@@ -2,11 +2,11 @@
 
 ![Software](/assets/software/main1.png)
 
-[AI Vision 팀](/profile/vision/vision.md), [AI Motion 팀](/profile/motion/motion.md) 과 협업하여 애플리케이션으로 만드는 일을 합니다.
+플라잎 SW 제품화를 담당하는 팀으로 GUI, 리눅스 플랫폼, DevOps 등의 업무를 수행합니다.
 
 ## 👥 Members
 
-- [🐷 이주성](/profile/software/members/jusung.md)
-- [🇺🇸 에디](/profile/software/members/eddie.md)
+- [🐰 이주성](/profile/software/members/jusung.md)
+- [🐲 에디](/profile/software/members/eddie.md)
 - [🐯 박종우](/profile/software/members/jongwoo.md)
 - [🐷 윤군재](/profile/software/members/gunjae.md)
