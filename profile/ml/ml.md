@@ -7,4 +7,4 @@ ML 팀은 [AI Vision 팀](/profile/vision/vision.md), [AI Motion 팀](/profile/m
 - [🐺 이지훈](/profile/ml/members/jihun.md)
 - [🐯 살림](/profile/ml/members/saleem.md)
 - [🐶 소영](/profile/ml/members/soyoung.md)
-- [🐮 이정호](/profile/vision/members/jeongho.md)
+- [🐮 이정호](/profile/ml/members/jeongho.md)
