@@ -9,4 +9,4 @@
 - [🐰 이주성](/profile/software/members/jusung.md)
 - [🐲 에디](/profile/software/members/eddie.md)
 - [🐯 박종우](/profile/software/members/jongwoo.md)
-- [🐷 윤군재](/profile/software/members/gunjae.md)
+- [🐧 윤군재](/profile/software/members/gunjae.md)
