@@ -4,7 +4,7 @@
 
 ## Position
 
-Team Lead / Windows Application Developer
+Team Lead / .NET Application Developer
 
 ## About me?
 
