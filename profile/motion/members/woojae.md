@@ -6,7 +6,7 @@ Team Lead / AI Motion Developer
 
 ## About me?
 
-자주 찾지 말아주세요. 
+자주 찾지 말아주세요.
 
 ## Links
 

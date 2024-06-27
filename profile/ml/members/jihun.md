@@ -14,8 +14,6 @@ Machine Learning Engineer
 
 ![풋살그림](/assets/ml/jihun_playing_futsal.jpg)*2대1 패스를 받으러 가는 모습*
 
-
-
 ## Links
 
 [Github Profile](https://github.com/BlindedShooter)
