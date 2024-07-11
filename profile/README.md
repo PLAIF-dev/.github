@@ -17,4 +17,4 @@
 - [📔 Operation](/profile/operation/operation.md)
 - [⚙️ Mech.](/profile/mech/mech.md)
 - [🤖 ML](/profile/ml/ml.md)
-
+- [🖥️ PM](/profile/pm/pm.md)
