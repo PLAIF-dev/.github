@@ -1,5 +1,6 @@
 # 정진균
 
+![메인 이미지](/assets/motion/jg1.jpg)
 
 ## Position
 
