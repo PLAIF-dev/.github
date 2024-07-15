@@ -10,3 +10,4 @@
 - [🐼 한가영](/profile/vision/members/gayoung.md)
 - [🐶 알리오 헌낭](/profile/vision/members/honnang.md)
 - [🐔 김지헌](/profile/vision/members/jeeheon.md)
+- [🐤 임종헌](/profile/vision/members/jongheon.md)
