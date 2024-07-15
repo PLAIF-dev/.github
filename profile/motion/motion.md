@@ -8,5 +8,6 @@
 
 - [🤖 이우재](/profile/motion/members/woojae.md)
 - [🐔 김주확](/profile/motion/members/juhwak.md)
-- [🦊 배트볼드](/profile/motion/members/batbold.md)
+- [🦇 배트볼드](/profile/motion/members/batbold.md)
 - [🐯 이기범](/profile/motion/members/kibeom.md)
+- [🦠 정진균](/profile/motion/members/jingyun.md)
