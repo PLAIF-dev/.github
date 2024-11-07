@@ -11,3 +11,4 @@ ML
 - [🐶 소영](/profile/ml/members/soyoung.md)
 - [🐮 이정호](/profile/ml/members/jeongho.md)
 - [🦧 아하메드](/profile/ml/members/ahmed.md)
+- [🙊 술지트](/profile/ml/members/surjeet.md)
