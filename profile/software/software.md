@@ -10,3 +10,5 @@
 - [🐲 에디](/profile/software/members/eddie.md)
 - [🐯 박종우](/profile/software/members/jongwoo.md)
 - [🐧 윤군재](/profile/software/members/gunjae.md)
+- [😃 오소진](/profile/software/members/sojin.md)
+- [😊 윤종호](/profile/software/members/jongho.md)
