@@ -7,6 +7,5 @@
 ## 👥 Members
 
 - [🐯 신여율](/profile/operation/members/yeoryul.md)
-- [🐮 임지연](/profile/operation/members/jiyeon.md)
 - [🐋 최지훈](/profile/operation/members/jihoon.md)
 - [🦑 정준원](/profile/operation/members/junwon.md)

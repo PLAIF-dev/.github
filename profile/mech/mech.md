@@ -6,3 +6,4 @@
 
 - [🦉 정우철](/profile/mech/members/woocheol.md)
 - [🦫 이기범](/profile/mech/members/kibeom.md)
+- 🐬 박재우
