@@ -1,6 +1,6 @@
 # 🖥️ Team Software
 
-![Software](/assets/software/main2.png)
+![Software](/assets/software/main2.jpg)
 
 플라잎 SW 제품화를 담당하는 팀으로 GUI, 리눅스 플랫폼 개발, DevOps 등의 업무를 수행합니다.
 
