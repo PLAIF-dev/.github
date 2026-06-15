@@ -2,7 +2,7 @@
 
 ## Hey, we are PLAiF 👋
 
-![Welcome Image with PLAiF members](/assets/main/opening2026.jpg)
+![Welcome Image with PLAiF members](/assets/main/opening2026.png)
 
 **PLAiF**은 단순 반복적인 일은 로봇이 하고, 사람은 좀 더 창의적이고 가치 있는 일을 할 수 있게 합니다.
 플라잎은 1가정 1로봇의 시대를 열어갈 것입니다 🏠.
